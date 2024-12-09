@@ -45,6 +45,7 @@ public partial class CatalogContextSeed(
             {
                 Id = source.Id,
                 Name = source.Name,
+                Gender = source.Gender,
                 Description = source.Description,
                 Price = source.Price,
                 CatalogBrandId = brandIdsByName[source.Brand],

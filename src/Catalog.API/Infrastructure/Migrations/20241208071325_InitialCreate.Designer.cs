@@ -13,8 +13,8 @@ using eShop.Catalog.API.Infrastructure;
 namespace eShop.Catalog.API.Infrastructure.Migrations
 {
     [DbContext(typeof(CatalogContext))]
-    [Migration("20241208064618_PendingChanges")]
-    partial class PendingChanges
+    [Migration("20241208071325_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -67,6 +67,9 @@ namespace eShop.Catalog.API.Infrastructure.Migrations
 
                     b.Property<Vector>("Embedding")
                         .HasColumnType("vector(384)");
+
+                    b.Property<string>("Gender")
+                        .HasColumnType("text");
 
                     b.Property<int>("MaxStockThreshold")
                         .HasColumnType("integer");
