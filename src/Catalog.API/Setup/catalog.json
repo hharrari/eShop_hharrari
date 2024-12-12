@@ -5,7 +5,7 @@
     "Brand": "The College of St. Scholastica",
     "Name": "Gear Big Cotton Tumbled Hood - Shield",
     "Gender": "Male",
-    "Description": "Gear Big Cotton Tumbled Hood - Shield is your go-to grey hoodie for ultimate comfort and warmth. Crafted from premium tumbled cotton, it features a soft fleece lining and a relaxed fit, making it perfect for chilly days. The hoodie’s adjustable drawstring and spacious front pocket add both functionality and style, ensuring you stay cozy whether you're lounging at home or braving the outdoors.",
+    "Description": "hoodie for ultimate comfort and warmth.",
     "Price": 59.99
   },
   {
@@ -14,7 +14,7 @@
     "Brand": "The College of St. Scholastica",
     "Name": "Gear Big Cotton Tumbled Crew - White",
     "Gender": "Unisex",
-    "Description": "The Gear Big Cotton Tumbled Crew in white combines timeless style with unmatched comfort. Made from premium tumbled cotton, this sweatshirt offers a soft, cozy feel and a classic crewneck design. Perfect for layering or wearing on its own, it’s a versatile wardrobe essential that keeps you comfortable all day long.",
+    "Description": "Sweater with style with unmatched comfort. ",
     "Price": 52.99
   },
   {
@@ -23,7 +23,7 @@
     "Brand": "The College of St. Scholastica",
     "Name": "Legacy EZA - Relaxed Twill",
     "Gender": "Unisex",
-    "Description": "The Legacy EZA Relaxed Twill Cap in dark grey is the perfect blend of casual style and comfort. Featuring a relaxed fit and durable twill fabric, this cap is embroidered with St.Scholastica for a timeless look. With its adjustable strap and classic design, it’s an everyday essential for showing off your school pride.",
+    "Description": "Cap with perfect blend of casual style and comfort.",
     "Price": 23.99
   },
   {
@@ -32,16 +32,16 @@
     "Brand": "The College of St. Scholastica",
     "Name": "Deneen Pottery Ramsey Mug - Navy/PwdBle/Wht",
     "Gender": "Unisex",
-    "Description": "The Deneen Pottery Ramsey Mug in Navy, Powder Blue, and White is a beautifully handcrafted piece that combines elegance with functionality. Featuring a rich navy glaze with subtle powder blue and white accents, this mug is perfect for enjoying your favorite hot beverages. Its sturdy design and comfortable handle make it ideal for daily use or as a thoughtful gift.",
-    "Price": "26.99"
+    "Description": "a handcrafted piece that combines elegance with functionality.",
+    "Price": 26.99
   },
   {
     "Id": 5,
     "Type": "Sweaters",
     "Brand": "The College of St. Scholastica",
-    "Name": "Cutter & Buck Lakemont Tri-Blend Mens Quarter Zip Pullover Sweater now for this sweater",
+    "Name": "Pullover Sweater now for this sweater",
     "Gender": "Unisex",
-    "Description": "The Cutter & Buck Lakemont Tri-Blend Men's Quarter-Zip Pullover Sweater is the perfect blend of comfort and sophistication. Crafted from a soft tri-blend fabric, this versatile sweater features a classic quarter-zip design, making it ideal for layering in any season. Whether at the office or on the go, it offers a polished look with all-day comfort.",
+    "Description": "sweater of comfort and sophistication.",
     "Price": 26.99
   },
   {
@@ -51,16 +51,16 @@
     "Brand": "The College of St. Scholastica",
     "Name": "MV Sport Vintage Fleece Raglan Crew",
     "Gender": "Unisex",
-    "Description": "The MV Sport Vintage Fleece Raglan Crew in Ash Grey offers a stylish, relaxed fit with a cozy, retro-inspired design. Made from soft fleece, this sweatshirt features raglan sleeves for added comfort and ease of movement. Perfect for casual outings or lounging at home, its timeless ash grey color adds a versatile touch to any wardrobe.",
+    "Description": "a stylish, relaxed fit with a cozy, retro-inspired sweater.",
     "Price": 39.99
   },
   {
     "Id": 7,
-    "Type": "The College of St. Scholastica",
-    "Brand": "Solstix",
+    "Type": "Sweaters",
+    "Brand": "The College of St. Scholastica",
     "Name": "MV Sport Fundamental Fleece 1/4 Zip",
     "Gender": "Unisex",
-    "Description": "The MV Sport Fundamental Fleece 1/4 Zip in Ash combines warmth and versatility in a sleek, comfortable design. Made from soft fleece, this pullover features a quarter-zip for easy layering and a relaxed fit that’s perfect for casual wear or outdoor activities. The ash grey color gives it a clean, neutral look that pairs well with anything in your wardrobe.",
+    "Description": " sweater with warmth and versatility.",
     "Price": 39.99
   },
   {
@@ -69,7 +69,7 @@
     "Brand": "The College of St. Scholastica",
     "Name": "MV Sport Vintage Fleece Short",
     "Gender": "MV Sport Vintage Fleece Short",
-    "Description": "The MV Sport Vintage Fleece Shorts in Vintage Blue offer a relaxed, comfortable fit with a touch of retro style. Made from soft fleece, these shorts are perfect for lounging or casual outings. The vintage blue color adds a laid-back, classic vibe, while the elastic waistband ensures a snug, adjustable fit for all-day comfort",
+    "Description": "shorts with a touch of retro style.",
     "Price": 39.99
   },
   {
@@ -78,7 +78,7 @@
     "Brand": "The College of St. Scholastica",
     "Name": "Nike Tempo Short",
     "Gender": "Female",
-    "Description": "The Nike Tempo Shorts in Anthracite are designed for ultimate comfort and performance. Featuring a lightweight, breathable fabric and an elastic waistband with an adjustable drawstring, these shorts provide a perfect fit for active wear. Ideal for running, training, or casual activities, the sleek anthracite color adds a stylish, modern touch to your athletic wardrobe.",
+    "Description": "Shorts designed for ultimate comfort and performance.",
     "Price": 39.99
   },
   {
@@ -87,7 +87,7 @@
     "Brand": "The College of St. Scholastica",
     "Name": "Nike Club Fleece Jogger",
     "Gender": "Unisex",
-    "Description": "The Nike Club Fleece Joggers offer a perfect balance of comfort and style. Made from soft, brushed fleece, these joggers provide warmth and a cozy fit for all-day wear. With an elastic waistband and adjustable drawstring, they ensure a personalized fit, while the tapered legs give a sleek, modern look. Ideal for lounging, workouts, or casual outings.",
+    "Description": "Joggers of comfort and style.",
     "Price": 59.99
   }
 ]
